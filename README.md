@@ -32,3 +32,5 @@ Hai  40  voti
 La media dei voti e' :  8.74375
 ```
 
+(dati riferiti al quadrimeste in corso!)
+
