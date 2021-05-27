@@ -16,7 +16,7 @@ pip install selenium
 ### Configurazione account
 Modificare le prime due righe dello script come segue
 ```py
-userid = "TUO_USER_ID""
+userid = "TUO_USER_ID"
 password = "TUA_PASSWORD"
 ```
 
