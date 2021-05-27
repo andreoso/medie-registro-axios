@@ -6,6 +6,10 @@ CONTATTO PER RECLAMI E RIMOZIONE: andrea (at) andreasau (dot) it_
 
 ### Prerequisiti
 avere installato _python3_ ed il packet manager _pip_
+avere installato _firefox_ ed il webdriver gecko:
+* Per WINDOWS e MACOS: https://github.com/mozilla/geckodriver/releases . Scaricare ed installre lo zip relativo
+* per LINUX: ```sudo apt-get install firefox-geckodriver```
+
 
 ### Installazione
 per installare il modulo _selenium_ eseguire da terminale (nella cartella dello script) il seguente comando:
